@@ -1,4 +1,4 @@
-
+#Superuser prince@gmail.com pass:123456789
 import imp
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
